@@ -65,3 +65,14 @@ Each row represents one title available on Netflix.
 ## Conclusion
 
 The analysis suggests that Netflix relies heavily on U.S. content but is rapidly expanding globally through international titles. The platform is also focusing on recent content and long-form TV shows to retain viewers and stay competitive in the streaming market.
+
+## Business Recommendations
+
+Based on the analysis:
+
+* Netflix should continue investing in international content to grow its global subscriber base.
+* Increasing production of TV shows can improve user retention due to longer engagement time.
+* The platform should focus on recent releases, as users prefer newly added content.
+* Expanding content production beyond the United States can reduce regional dependency and increase market reach.
+
+
